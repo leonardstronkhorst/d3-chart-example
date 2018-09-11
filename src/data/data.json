@@ -1,0 +1,19 @@
+{
+  "values": [
+    1,
+    0,
+    4,
+    11,
+    11
+  ],
+  "labels": [
+    "Not good",
+    "Could be better",
+    "Okay",
+    "Pretty good",
+    "Fantastic"
+  ],
+  "text": null,
+  "numberOfUniqueAnswers": 27,
+  "maxFrequency": 11
+}

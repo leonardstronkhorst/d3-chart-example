@@ -1,0 +1,14 @@
+{
+  "Id": "8837e153-89a2-4ae1-9896-d8590ddf0ba4",
+  "Target": 10000,
+  "Successful": 557,
+  "SuccessfulToday": 0,
+  "ScreenedOut": 0,
+  "DroppedOut": 106,
+  "SuccessfulDeleted": 0,
+  "DroppedOutDeleted": 0,
+  "ScreenedOutDeleted": 0,
+  "ActiveInterviews": 1,
+  "HasQuota": false,
+  "ScreenedOutOverview": []
+}

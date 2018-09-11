@@ -1,0 +1,40 @@
+{
+  "Id": "9229a650-87f3-402c-ae77-54338afd1d54",
+  "PublishedCount": 1,
+  "TotalCount": 2,
+  "Counts": [
+    {
+      "MetricName": "BlockExecutionCount",
+      "All": {
+        "Warn": 0,
+        "Kill": 0
+      },
+      "Published": {
+        "Warn": 0,
+        "Kill": 0
+      }
+    },
+    {
+      "MetricName": "ExpressionInstructionCount",
+      "All": {
+        "Warn": 0,
+        "Kill": 0
+      },
+      "Published": {
+        "Warn": 0,
+        "Kill": 0
+      }
+    },
+    {
+      "MetricName": "InterviewStateSize",
+      "All": {
+        "Warn": 1,
+        "Kill": 1
+      },
+      "Published": {
+        "Warn": 0,
+        "Kill": 1
+      }
+    }
+  ]
+}
